@@ -164,3 +164,5 @@ while True:
 
 # Tips
 I have been using the filament I have here because it's just available. I think this would look better in black (Prusa has a really nice galaxy black filament).
+
+I used gorilla glue to hold the magnets in place.
