@@ -5,9 +5,9 @@
 As a teacher, I have to engage in parent-teacher conferences a few times a year and every year I found myself rushing to make a quick intro card so people can know my name once they enter my room or are speaking with me. Of course, I can introduce myself or - as I have done here - I can have a programmable e-ink screen displaying my name and relevant information for parents. This is super simple to do and setup, but I wanted to dedicate a repository for my own posterity.
 # Material(s)
 
-Badger 2040 by Pimoroni - this can be purchased for $20 (about $30 after shipping costs) at the following link: https://shop.pimoroni.com/products/badger-2040?variant=39752959852627
+* [Badger 2040 ($20)](https://shop.pimoroni.com/products/badger-2040?variant=39752959852627)
 
-DIYMAG 120Pcs Refrigerator Magnets 10x2mm Premium Brushed Nickel Small Round Cylinder Fridge Magnet, Perfect to use as Office Magnets, Dry Erase Board Magnetic pins, Whiteboard, Map Pins  - this can be purchased for $12.99 at the following link: https://www.amazon.com/DIYMAG-Refrigerator-Magnets-100-piece/dp/B0753ZPBLQ/ref=sr_1_15?crid=1LP6OMWHOW7J0&dib=eyJ2IjoiMSJ9.WlU1gPXNyLeoE60GeE-rIFVgLx09JrIzCqVNNmZI45Se5J-RxH5oeplSl2VZjbZazxosP3Ww3WEyXQRheL1tMhdbiS9NHFA3k4PDUAtjCQ_pDsDKOdLYM4CulMzqCWwsFtrzBy6IabptRBPHUnjV77nJ0TB0FTenl1IaVMa2_x4l9SJvljne80_YfM-Is8V8TxyEISlLSXDLJCjZRkrJcUHff_Wv2qCz67dz7HNRva4.WYhowoa9txxhU4kfoz_R9glKt7drWcm2iIcKx4Yotcc&dib_tag=se&keywords=10mm%2Bdiameter%2Bmagnets%2Bneodymium&qid=1737917543&sprefix=10mm%2Bdiameter%2Bmagnets%2Bneodynium%2Caps%2C114&sr=8-15&th=1
+* [10x2mm Magnets ($12.99)](https://www.amazon.com/DIYMAG-Refrigerator-Magnets-100-piece/dp/B0753ZPBLQ/ref=sr_1_15?crid=1LP6OMWHOW7J0&dib=eyJ2IjoiMSJ9.WlU1gPXNyLeoE60GeE-rIFVgLx09JrIzCqVNNmZI45Se5J-RxH5oeplSl2VZjbZazxosP3Ww3WEyXQRheL1tMhdbiS9NHFA3k4PDUAtjCQ_pDsDKOdLYM4CulMzqCWwsFtrzBy6IabptRBPHUnjV77nJ0TB0FTenl1IaVMa2_x4l9SJvljne80_YfM-Is8V8TxyEISlLSXDLJCjZRkrJcUHff_Wv2qCz67dz7HNRva4.WYhowoa9txxhU4kfoz_R9glKt7drWcm2iIcKx4Yotcc&dib_tag=se&keywords=10mm%2Bdiameter%2Bmagnets%2Bneodymium&qid=1737917543&sprefix=10mm%2Bdiameter%2Bmagnets%2Bneodynium%2Caps%2C114&sr=8-15&th=1)
 
 # Case
 This next section covers the 3D-printed case so I can put the badger on my desk.
@@ -23,9 +23,8 @@ Below you can find the printer and material used.
 ### 3D Printer
  Original Prusa Mini+
 ### Material(s)
-INLAND PLA 3D Printer Filament - 3D Printing PLA Filament 1.75mm, Dimensional Accuracy +/- 0.03mm - 1kg Cardboard Spool (2.2 lbs), Marble PLA
- – this can be purchased for $29.99 at the following link:
-https://www.amazon.com/Inland-1-75mm-Marble-Printer-Filament/dp/B08M4733VV/ref=sr_1_3?crid=RY0788Z9D3XL&dib=eyJ2IjoiMSJ9.GvDUjGeacdaThMoKB2T31ewH9i3JmlLfhoDydChHBm-pD7cXPBEVjrKUewiIA1ZLE0_09V1n0PRn75b7hFqiDw4M0-lnl6NiRKwU4Bay_UQglrp8aVfnSITNRxxnTlk00zi7jk9JMRR5mzHilVguVNlu22jSBhxaIA2Mgu28qpM98QySMqZ0onKGj8rI2Ae99hyhSl7nTwlWuBccngRzfk5tlxoLLDb3Ck8adz-NTaQ.5vcyT03Wl1FkUx1DENvwhSOMvdqbl_TQCjXICAq7kSI&dib_tag=se&keywords=pla+filament+inland+marble&qid=1735843633&sprefix=pla+filament+inland+marble%2Caps%2C87&sr=8-3
+* [INLAND Marble PLA Filament ($29.99)](https://www.amazon.com/Inland-1-75mm-Marble-Printer-Filament/dp/B08M4733VV/ref=sr_1_3?crid=RY0788Z9D3XL&dib=eyJ2IjoiMSJ9.GvDUjGeacdaThMoKB2T31ewH9i3JmlLfhoDydChHBm-pD7cXPBEVjrKUewiIA1ZLE0_09V1n0PRn75b7hFqiDw4M0-lnl6NiRKwU4Bay_UQglrp8aVfnSITNRxxnTlk00zi7jk9JMRR5mzHilVguVNlu22jSBhxaIA2Mgu28qpM98QySMqZ0onKGj8rI2Ae99hyhSl7nTwlWuBccngRzfk5tlxoLLDb3Ck8adz-NTaQ.5vcyT03Wl1FkUx1DENvwhSOMvdqbl_TQCjXICAq7kSI&dib_tag=se&keywords=pla+filament+inland+marble&qid=1735843633&sprefix=pla+filament+inland+marble%2Caps%2C87&sr=8-3
+)
 
 ### Software
  PrusaSlicer
